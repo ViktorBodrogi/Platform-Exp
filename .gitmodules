@@ -1,0 +1,8 @@
+[submodule "DokuWiki"]
+	path = dokuwiki
+	url = https://github.com/ViktorBodrogi/dokuwiki
+	branch = master
+[submodule "Bootstrap3"]
+	path = dokuwiki/lib/tpl/bootstrap3
+	url = https://github.com/LotarProject/dokuwiki-template-bootstrap3
+	branch = master
